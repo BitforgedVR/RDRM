@@ -13,7 +13,7 @@
     "name": "Retro",
     "url": "https://t.me/myththewolf"
   },
-  "dependencies": {
+  "vpmDependencies": {
     "com.vrchat.avatars": "3.10.1"
   }
 }
