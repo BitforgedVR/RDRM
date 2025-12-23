@@ -12,5 +12,8 @@
   "author": {
     "name": "Retro",
     "url": "https://t.me/myththewolf"
+  },
+  "dependencies": {
+    "com.vrchat.avatars": "3.10.1"
   }
 }
