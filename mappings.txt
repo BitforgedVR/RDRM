@@ -1,6 +1,0 @@
-#Sources for RDRM
-[GitRoot] /home/myth/Documents/VRC/RetroDEV/Packages/net.bitforged.rdrm
-[Mappings]
-/home/myth/Documents/VRC/RetroDEV/Library/ScriptAssemblies/net.bitforged.rdrm.Editor.dll:Editor/net.bitforged.rdrm.Editor.dll
-/home/myth/Documents/VRC/RetroDEV/Library/ScriptAssemblies/net.bitforged.rdrm.Runtime.dll:Runtime/net.bitforged.rdrm.Runtime.dll
-/home/myth/Documents/VRC/RetroDEV/Packages/net.bitforged.rdrm/Resources:Resources
