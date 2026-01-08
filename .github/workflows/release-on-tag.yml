@@ -73,6 +73,8 @@ jobs:
           zip -r "$ZIP_NAME" \
             package.json \
             Runtime/ \
+            Editor/ \
+            Resources/ 
             -x "*.meta"
 
           echo "ZIP_NAME=$ZIP_NAME" >> "$GITHUB_ENV"
