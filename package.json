@@ -15,6 +15,6 @@
   },
   "vpmDependencies": {
     "com.vrchat.avatars": "3.10.1",
-    "net.bitforged.rlib": "1.0.1"
+    "net.bitforged.rlib": "1.0.0"
   }
 }
