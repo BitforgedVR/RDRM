@@ -1,6 +1,6 @@
 {
   "name": "net.bitforged.rdrm",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "displayName": "Retro DRM",
   "description": "This package secures,unpacks, and manages protected assets made by Retro",
   "unity": "2022.3",
