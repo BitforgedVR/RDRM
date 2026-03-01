@@ -1,6 +1,6 @@
 {
   "name": "net.bitforged.rdrm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Retro DRM",
   "description": "This package secures,unpacks, and manages protected assets made by Retro",
   "unity": "2022.3",
@@ -15,6 +15,6 @@
   },
   "vpmDependencies": {
     "com.vrchat.avatars": "3.10.1",
-    "net.bitforged.rlib": "1.0.0"
+    "net.bitforged.rlib": "1.0.1"
   }
 }
